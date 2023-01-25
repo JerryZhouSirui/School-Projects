@@ -1,7 +1,0 @@
-C
-4
-//Simple test to determine if the swap mode for the complex dictionary is working within the program
-sha!de
-smear
-smell
-small

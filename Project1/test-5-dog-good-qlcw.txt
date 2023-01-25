@@ -1,5 +1,0 @@
-C
-2
-//Testsing a complex dictionary which utilizes the reversal function within it
-dog&
-good

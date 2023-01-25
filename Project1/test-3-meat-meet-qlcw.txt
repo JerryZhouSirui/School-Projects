@@ -1,8 +1,0 @@
-C
-5
-//Complex dictionary with double mode enabled, and morph modes include length and change
-meat
-me?t
-meal
-mean
-mall
