@@ -1,0 +1,7 @@
+C
+4
+//Test to see if words that are differnt in length by one but otherwise similar might be falsely flagged as similar
+she?d
+sheel
+smeel
+smel
