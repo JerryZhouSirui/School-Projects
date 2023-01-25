@@ -1,0 +1,8 @@
+S
+5
+//Dimple dictionary to test false morph swap assumption
+crown
+brown
+bread
+berad
+beard

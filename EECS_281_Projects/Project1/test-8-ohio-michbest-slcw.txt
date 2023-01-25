@@ -1,0 +1,7 @@
+S
+4
+//unsucsessful search through the dictionary begining and ending word have different lengths without length activated
+ohio
+shio
+shit
+michbest

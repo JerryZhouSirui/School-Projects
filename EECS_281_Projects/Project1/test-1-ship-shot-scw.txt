@@ -1,0 +1,11 @@
+C
+6
+//Non Alphabetical dictionary containing a combination of simple and complex dictionary items
+//Complex dictionary items used include insert
+//Morph mode change
+ship
+trip
+flip
+sh[ui]t
+shard
+shot
