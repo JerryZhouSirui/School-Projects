@@ -1,0 +1,11 @@
+COMMENT: File with time traveler mode and checking order of profitability when prices are equal
+MODE: TL
+NUM_TRADERS: 4
+NUM_STOCKS: 3
+0 BUY T0 S1 $40 #30
+1 SELL T1 S1 $30 #20
+2 SELL T3 S0 $20 #40
+3 BUY T2 S0 $21 #39
+4 SELL T1 S2 $40 #26
+5 BUY T3 S2 $1 #45
+6 SELL T2 S1 $50 #1

@@ -1,0 +1,5 @@
+COMMENT: Time traveler mode with testing multiple pairs of stocks that have different profits 
+MODE: TL
+NUM_TRADERS: 4
+NUM_STOCKS: 2
+0 SELL T0 S0 $40 #30

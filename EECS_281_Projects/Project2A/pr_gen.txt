@@ -1,0 +1,7 @@
+COMMENT: Spec example, PR mode generating the same sequence of orders. cout << time << " " << action << " " << t << trader << " " << s << stock << " " << dolen << price << " " << number << quantity << '\n';
+MODE: PR
+NUM_TRADERS: 3
+NUM_STOCKS: 2
+RANDOM_SEED: 17
+NUMBER_OF_ORDERS: 30
+ARRIVAL_RATE: 4

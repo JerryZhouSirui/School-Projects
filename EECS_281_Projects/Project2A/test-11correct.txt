@@ -1,0 +1,36 @@
+20 entries read
+% Category search: 1 entries found
+% 19|75:32:14:05:04|space hmmm|a b c d e f g
+% 1 log entries appended
+% 0|19|75:32:14:05:04|space hmmm|a b c d e f g
+% Keyword search: 1 entries found
+% 19|75:32:14:05:04|space hmmm|a b c d e f g
+% 1 log entries appended
+% % log entry 12 appended
+% log entry 14 appended
+% log entry 15 appended
+% log entry 17 appended
+% Moved excerpt list entry 3
+% Moved excerpt list entry 0
+% 0|19|75:32:14:05:04|space hmmm|a b c d e f g
+1|19|75:32:14:05:04|space hmmm|a b c d e f g
+2|12|10:09:03:61:41|DoublE|aint never gonna stop
+3|15|19:09:03:61:41|douBle|aint never gonna stop
+4|17|50:01:01:01:01|six|we keep going
+5|14|18:09:03:61:41|five|aint never gonna stop
+% excerpt list sorted
+previous ordering:
+0|19|75:32:14:05:04|space hmmm|a b c d e f g
+...
+5|14|18:09:03:61:41|five|aint never gonna stop
+new ordering:
+0|12|10:09:03:61:41|DoublE|aint never gonna stop
+...
+5|19|75:32:14:05:04|space hmmm|a b c d e f g
+% 0|12|10:09:03:61:41|DoublE|aint never gonna stop
+1|14|18:09:03:61:41|five|aint never gonna stop
+2|15|19:09:03:61:41|douBle|aint never gonna stop
+3|17|50:01:01:01:01|six|we keep going
+4|19|75:32:14:05:04|space hmmm|a b c d e f g
+5|19|75:32:14:05:04|space hmmm|a b c d e f g
+%
