@@ -1,0 +1,17 @@
+k ++++=stop-{\+=-?>}
+g
+r
+c DoublE
+g
+r
+k s
+g
+k (&tr) know
+g
+r
+p
+k fi\/e stop
+g
+l
+p
+q

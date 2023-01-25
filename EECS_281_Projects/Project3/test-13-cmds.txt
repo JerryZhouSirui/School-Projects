@@ -1,0 +1,20 @@
+c fi\/e
+g
+a 5
+r
+r
+k stop~grinding
+g
+s
+r
+p
+a 9
+a 12
+s
+p
+b 2
+e 1
+p
+s
+p
+q

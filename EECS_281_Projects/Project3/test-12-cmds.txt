@@ -1,0 +1,13 @@
+k eating$ %#though
+g
+r
+p
+c $double
+g
+r
+p
+t 00:00:00:00:00|00:00:00:00:01
+g
+r
+p
+q

@@ -1,0 +1,15 @@
+c test
+g
+m 01:02:02:02:02
+g
+c Double
+g
+c double
+g
+c DOUBLE
+g
+r
+p
+s
+p
+q

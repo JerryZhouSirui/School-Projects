@@ -1,0 +1,19 @@
+t 10:09:03:61:40|10:09:04:60:60
+g
+r
+k grind stop
+g
+k everyone
+g
+k stop'we\though
+g
+k five ain't
+g
+p
+s
+p
+# comment for testing purposes to make sure it dont read dis thanatobiologic
+l
+s
+p
+q

@@ -1,0 +1,19 @@
+k thread'thread
+g
+k thread
+g
+k TCP'TCP
+g
+k db'mgr
+g
+k cpu
+g
+k master'election
+g
+k closing,lock
+g
+k ui'pane2
+g
+k hostname;p14
+g
+q
